@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "C:/Users/alexr/project/APP/my_home/linux",
+    "DockerRun.DisableDockerrc": true,
+    "cmake.configureOnOpen": true
+}
